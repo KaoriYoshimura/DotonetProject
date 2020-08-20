@@ -1,0 +1,6 @@
+$main_color: purple;
+$light_color: lighten($main_color, 40);
+$dark_color: darken($main_color, 10);
+$comp_color: complement($main_color);
+
+$padding: 20px 15px 30px 15px;
